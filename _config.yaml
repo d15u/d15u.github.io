@@ -2,6 +2,5 @@ title: My Cybersecurity Blog
 description: Write-ups and notes
 url: "https://d15u.github.io"
 baseurl: ""
-remote_theme: cotes2020/jekyll-theme-chirpy
-plugins:
-  - jekyll-remote-theme
+
+theme: jekyll-theme-chirpy
